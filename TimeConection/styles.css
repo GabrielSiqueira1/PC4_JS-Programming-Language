@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(70, 163, 236);
+  font: normal 16pt MesloLGS NF;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+section {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+section #msg{
+  padding-bottom: 30px;
+}
+
+section #phot #imagem{
+  width: 300px;
+  height: auto;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
